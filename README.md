@@ -35,3 +35,5 @@ pandas
 matplotlib 
 
 ChatGPT
+
+Zoom
