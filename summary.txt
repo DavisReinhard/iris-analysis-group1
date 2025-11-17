@@ -1,0 +1,18 @@
+Iris Dataset Summary (Cleaned)
+--------------------
+Total rows: 147
+Min sepal length: 4.3
+Max sepal length: 7.9
+Avg sepal length: 5.86
+
+Min sepal width: 2.0
+Max sepal width: 4.4
+Avg sepal width: 3.06
+
+Min petal length: 1.0
+Max petal length: 6.9
+Avg petal length: 3.78
+
+Min petal width: 0.1
+Max petal width: 2.5
+Avg petal width: 1.21
