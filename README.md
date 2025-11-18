@@ -37,3 +37,14 @@ matplotlib
 ChatGPT
 
 Zoom
+
+**Example Graphs**
+
+<img width="1025" height="629" alt="Screenshot 2025-11-17 182801" src="https://github.com/user-attachments/assets/d5cfe588-5cc9-4d5d-b296-508404c9e245" />
+
+<img width="768" height="505" alt="Screenshot 2025-11-17 182906" src="https://github.com/user-attachments/assets/0d2cc650-215f-4b91-82a8-d5c4a00f73be" />
+
+<img width="746" height="518" alt="Screenshot 2025-11-17 182943" src="https://github.com/user-attachments/assets/2bfbfff2-1daa-4404-9a56-ebb2d1264594" />
+
+<img width="682" height="589" alt="Screenshot 2025-11-17 185354" src="https://github.com/user-attachments/assets/d2ecf2c6-b61a-465f-a3ce-575d89e3e575" />
+
